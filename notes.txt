@@ -1,0 +1,3 @@
+1. syntax parse: a program that reads your code and determines what it does and if
+   its grammer is valid
+   \*\* your code isn't magic. Someone else wrote a program to translate it for the computer.
