@@ -21,6 +21,10 @@
 17. dynamic typing: you don't tell the engine what type of data a variable holds, it figures it out while your code is running
 (opposite is static typing)
 18. primitive type: a type of data that represents a single value (undefined, null, boolean, number, string, symbol(es6))
+19. operator: a special function that is syntactically (written) differently (generally, operators take two parameters and return one result)
+20. operator precendence: which operator function gets called first (higher precendence wins).
+21. associativity: what order operator functions get called in: left to right or right to left (when functions have the same precedence)
+22. coercion: converting a value from one type to another (this happens often in JS because it's dynamically typed)
 
 
 ## other notes
