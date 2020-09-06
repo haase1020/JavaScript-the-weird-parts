@@ -13,9 +13,19 @@
 9. synchronous: one at a time (and in order...)
 10. invocation: running a function (in JS, by using parenthesis())
 11. variable environment: where the variables live
+12. Scope: where a variable is available in your code.
+13. 'let': allows JS engine to use block scoping. (ES6)
+14. async: more than one at a time
+15. execution stack (when empty, looks to event queue)
+16. event queue
+17. dynamic typing: you don't tell the engine what type of data a variable holds, it figures it out while your code is running
+(opposite is static typing)
+18. primitive type: a type of data that represents a single value (undefined, null, boolean, number, string, symbol(es6))
+
 
 ## other notes
 
 - you have "this" and "window" available in execution context (global) -> global object is window object called "this" -> at global level these 2 things are equal
 - "global" means not inside a function
 - execution context -> global object/ 'this'/ 'outer environment -> your code
+- learn how things work under the hood!
