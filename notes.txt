@@ -1,3 +1,21 @@
-1. syntax parse: a program that reads your code and determines what it does and if
-   its grammer is valid
-   \*\* your code isn't magic. Someone else wrote a program to translate it for the computer.
+# key words
+
+1. syntax parser: a program that reads your code and determines what it does and if
+   its grammer is valid.
+   ->your code isn't magic. Someone else wrote a program to translate it for the computer.
+2. lexical environment: where something sits physically in the code you write
+3. execution context: a wrapper to help manage the code that is running.
+4. name/value pair: a name which maps to a unique value.
+5. object: a collection of name value pairs
+6. hoisting: setup memory space for variables and functions.
+7. all variables start as 'undefined'
+8. single threaded: one command at a time (under the hood of the browser, maybe not).
+9. synchronous: one at a time (and in order...)
+10. invocation: running a function (in JS, by using parenthesis())
+11. variable environment: where the variables live
+
+## other notes
+
+- you have "this" and "window" available in execution context (global) -> global object is window object called "this" -> at global level these 2 things are equal
+- "global" means not inside a function
+- execution context -> global object/ 'this'/ 'outer environment -> your code
