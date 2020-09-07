@@ -22,3 +22,5 @@ Big Word Alert:
  * new execution context is created (different from Window) and put on execution stack
  * each exec. cont. has variable environment, outer environment, and 'this'
  * 'this' points to another object/function
+
+5. Whitespace: invisible characters that create literal 'space' in your written code 
