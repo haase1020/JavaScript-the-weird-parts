@@ -1,0 +1,20 @@
+                                 # Object
+|                           |                       |
+V                           V                       V
+primitive property           object property        function method 
+
+
+in JS, functions are objects!!!!
+
+Big Word Alert:
+1. first class functions: everything you can do with other types you can do with functions.
+    -> assign them to variables, pass them around, create them on the fly.
+    -> function (a special type of object)
+        * primitive
+        * object
+        * function
+        * name (optional, can be anon)
+        * code 
+
+2. expression: a unit of code that results in a value (it doesn't have to save to a variable)
+3. mutate: to change something ('immutable' means can't be changed)
