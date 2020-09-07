@@ -26,6 +26,14 @@
 21. associativity: what order operator functions get called in: left to right or right to left (when functions have the same precedence)
 22. coercion: converting a value from one type to another (this happens often in JS because it's dynamically typed)
 23. namespace: a container for variables and functions (not available in JS) -> can use objects instead
+24. callback function: a function you give to another unction, to be run when the other fn is finished
+* so the fn you call (invoke) 'calls back' by calling the fn you gave it when it finishes. 
+
+
+
+
+
+
 
 ## other notes
 
