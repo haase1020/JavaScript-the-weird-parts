@@ -18,3 +18,7 @@ Big Word Alert:
 
 2. expression: a unit of code that results in a value (it doesn't have to save to a variable)
 3. mutate: to change something ('immutable' means can't be changed)
+4. When a function is invoked:
+ * new execution context is created (different from Window) and put on execution stack
+ * each exec. cont. has variable environment, outer environment, and 'this'
+ * 'this' points to another object/function

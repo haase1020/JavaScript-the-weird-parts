@@ -1,0 +1,4 @@
+exectution context is created (function)
+
+1. arguments: the parameters you pass to a function
+* JS gives you a keyword of the same name which contains them all

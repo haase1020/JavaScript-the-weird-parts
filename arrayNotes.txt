@@ -1,0 +1,1 @@
+1. JS is dynamically typed, so various types in an array
