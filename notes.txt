@@ -28,10 +28,11 @@
 23. namespace: a container for variables and functions (not available in JS) -> can use objects instead
 24. callback function: a function you give to another unction, to be run when the other fn is finished
 * so the fn you call (invoke) 'calls back' by calling the fn you gave it when it finishes. 
-
-
-
-
+25. function currying: creating a copy of a function but with some preset parameters.
+26. inheritance: one object gets access to the properties and methods of another object.
+-> classical inheritance (verbose)
+-> prototypal inheritance (simple, flexible)
+27.reflection: an object can look at itself, listing and chanding its properties and methods.
 
 
 
