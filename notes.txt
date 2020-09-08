@@ -33,7 +33,8 @@
 -> classical inheritance (verbose)
 -> prototypal inheritance (simple, flexible)
 27.reflection: an object can look at itself, listing and chanding its properties and methods.
-
+28. function constructors: a normal functio that is used to construct objects.
+-> the 'this' variable points to a new empty object, and that object is returned from the function automatically
 
 
 ## other notes

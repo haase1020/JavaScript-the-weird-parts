@@ -35,3 +35,15 @@ var checkPastLimitSimplified = function (limiter) {
 
 var arr5 = mapForEach(arr1, checkPastLimitSimplified(1));
 console.log(arr5);
+
+//for rest of code, watch video 56(the following is the starter code)
+var john = {
+  firstname: 'John',
+  lastname: 'Programmer',
+};
+
+for (var prop in john) {
+  if (john.hasOwnProperty(prop)) {
+    console.log(prop + ': ' + john[prop]);
+  }
+}
