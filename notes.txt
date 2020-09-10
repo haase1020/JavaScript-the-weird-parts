@@ -35,6 +35,9 @@
 27.reflection: an object can look at itself, listing and chanding its properties and methods.
 28. function constructors: a normal functio that is used to construct objects.
 -> the 'this' variable points to a new empty object, and that object is returned from the function automatically
+29. polfill: code that add a feature which the engine may lack
+30. syntactic sugar: a different way to type something that doesn't change how it works under the hood
+
 
 
 ## other notes
